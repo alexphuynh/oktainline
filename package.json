@@ -1,0 +1,14 @@
+{
+  "name": "oktainlinehook",
+  "version": "1.0.0",
+  "description": "Rest Endpoint for Okta Inline Hooks",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alex H",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
